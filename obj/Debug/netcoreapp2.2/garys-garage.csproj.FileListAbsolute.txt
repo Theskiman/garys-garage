@@ -1,0 +1,11 @@
+C:\Users\Cliff\backend\garys-garage\bin\Debug\netcoreapp2.2\garys-garage.deps.json
+C:\Users\Cliff\backend\garys-garage\bin\Debug\netcoreapp2.2\garys-garage.runtimeconfig.json
+C:\Users\Cliff\backend\garys-garage\bin\Debug\netcoreapp2.2\garys-garage.runtimeconfig.dev.json
+C:\Users\Cliff\backend\garys-garage\bin\Debug\netcoreapp2.2\garys-garage.dll
+C:\Users\Cliff\backend\garys-garage\bin\Debug\netcoreapp2.2\garys-garage.pdb
+C:\Users\Cliff\backend\garys-garage\obj\Debug\netcoreapp2.2\garys-garage.csprojAssemblyReference.cache
+C:\Users\Cliff\backend\garys-garage\obj\Debug\netcoreapp2.2\garys-garage.csproj.CoreCompileInputs.cache
+C:\Users\Cliff\backend\garys-garage\obj\Debug\netcoreapp2.2\garys-garage.AssemblyInfoInputs.cache
+C:\Users\Cliff\backend\garys-garage\obj\Debug\netcoreapp2.2\garys-garage.AssemblyInfo.cs
+C:\Users\Cliff\backend\garys-garage\obj\Debug\netcoreapp2.2\garys-garage.dll
+C:\Users\Cliff\backend\garys-garage\obj\Debug\netcoreapp2.2\garys-garage.pdb
